@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-![Banner Image]((https://tse1.mm.bing.net/th?id=OIG3.vlAKxAagOC9IRkZw6jvC&pid=ImgGn))
+![Banner Image]([(https://tse1.mm.bing.net/th?id=OIG3.vlAKxAagOC9IRkZw6jvC&pid=ImgGn](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1746385353~exp=1746388953~hmac=1a4b4b880792ce740be3efaf5900d80db8c4e1a1fbd119e7d5aaf4be8b0070b0&w=826)))
 
 ## About Me 🚀
 
